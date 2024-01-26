@@ -16,5 +16,10 @@ namespace Test_Git_01
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //Hong Phuc Sua Form
+        }
     }
 }
