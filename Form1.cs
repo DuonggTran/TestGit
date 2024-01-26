@@ -20,6 +20,7 @@ namespace Test_Git_01
         private void Form1_Load(object sender, EventArgs e)
         {
             //Duong sua form
+            //Hong phuc sua form
         }
     }
 }
