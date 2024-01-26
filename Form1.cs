@@ -19,8 +19,14 @@ namespace Test_Git_01
 
         private void Form1_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             //Hong Phuc Sua Form
             //Hong Phuc update
+=======
+            //Duong sua form
+            //Hong phuc sua form
+            //KhanhDuong sua form
+>>>>>>> 3c79ccdcbcd0a7779f9b2c622202f104a8b7afab
         }
     }
 }
