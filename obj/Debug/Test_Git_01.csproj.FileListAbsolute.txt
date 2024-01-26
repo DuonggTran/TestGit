@@ -1,0 +1,12 @@
+D:\TEST_GIT\TestGit\bin\Debug\Test_Git_01.exe.config
+D:\TEST_GIT\TestGit\bin\Debug\Test_Git_01.exe
+D:\TEST_GIT\TestGit\bin\Debug\Test_Git_01.pdb
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.csproj.AssemblyReference.cache
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.csproj.SuggestedBindingRedirects.cache
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.Form1.resources
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.HongPhucForm.resources
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.Properties.Resources.resources
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.csproj.GenerateResource.cache
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.csproj.CoreCompileInputs.cache
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.exe
+D:\TEST_GIT\TestGit\obj\Debug\Test_Git_01.pdb
