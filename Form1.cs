@@ -19,7 +19,6 @@ namespace Test_Git_01
 
         private void Form1_Load(object sender, EventArgs e)
         {
-<<<<<<< HEAD
             //Hoang chinh sua giao dien
 
             //Hong Phuc update
@@ -28,7 +27,6 @@ namespace Test_Git_01
             //KhanhDuong sua form
             //lan2
 
-=======
 
             //Hong Phuc Sua Form
             //Hong Phuc update
@@ -41,7 +39,6 @@ namespace Test_Git_01
 
             //Duong(5h40)
 
->>>>>>> origin/master
         }
     }
 }
